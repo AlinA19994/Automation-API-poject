@@ -14,7 +14,6 @@ Install the following packages with pip, with the following command:
 
 ```
 pip install pytest  matplotlib
-
 ```
 
 ### 03.
