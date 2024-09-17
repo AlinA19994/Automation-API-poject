@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Environment>
+    <!--API -->
+    <url>https://api.coindesk.com/v1/bpi/currentprice.json</url>
+    <data_folder>../Data_files/ </data_folder>
+    <folder_name>Data_files</folder_name>
+    <data_file>../Data_files/Bitcoin_price_usd.json</data_file>
+    <file_nane>Bitcoin_price_usd</file_nane>
+    
+
+
+
+
+
+</Environment>
